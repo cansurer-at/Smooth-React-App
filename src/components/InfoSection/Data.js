@@ -32,7 +32,7 @@ export const homeObjTwo = {
   buttonLabel: "Learn More",
   imgStart: true,
   imgPath: svg2,
-  alt: "Piggybanck",
+  alt: "Piggybank",
   dark: false,
   primary: false,
   darkText: true,
