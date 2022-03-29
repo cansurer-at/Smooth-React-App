@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Smooth-React-App/static/css/main.d7da34c1.css",
+    "main.js": "/Smooth-React-App/static/js/main.e16cc5be.js",
+    "static/media/video.mp4": "/Smooth-React-App/static/media/video.5e99e70107e8538462e6.mp4",
+    "static/media/svg-1.svg": "/Smooth-React-App/static/media/svg-1.198c883546a77ed301550e05e51d4c28.svg",
+    "static/media/svg-2.svg": "/Smooth-React-App/static/media/svg-2.b8e417785e2f2402ede1cb79a71f5e6f.svg",
+    "static/media/svg-4.svg": "/Smooth-React-App/static/media/svg-4.5f11287c26997c9712f8b3cdf94e4493.svg",
+    "static/media/svg-3.svg": "/Smooth-React-App/static/media/svg-3.d274da2e866711177649f5d8d64265c1.svg",
+    "index.html": "/Smooth-React-App/index.html",
+    "main.d7da34c1.css.map": "/Smooth-React-App/static/css/main.d7da34c1.css.map",
+    "main.e16cc5be.js.map": "/Smooth-React-App/static/js/main.e16cc5be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7da34c1.css",
+    "static/js/main.e16cc5be.js"
+  ]
+}
